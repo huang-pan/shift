@@ -6,6 +6,6 @@ For the end results:
 
 - Open in new tab: https://raw.githubusercontent.com/huang-pan/shift/main/Shift.html
 - right click --> save page as 'Shift.html'
-- then open the downloaded Shift.html on your local computer
+- then open the downloaded Shift.html file on your local computer
 
 Source notebook: https://github.com/huang-pan/shift/blob/main/Shift.ipynb
